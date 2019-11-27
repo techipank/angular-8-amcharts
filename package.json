@@ -11,6 +11,8 @@
     },
     "license": "MIT",
     "dependencies": {
+        "@amcharts/amcharts4": "^4.7.11",
+        "@amcharts/amcharts4-geodata": "^4.1.9",
         "@angular/common": "^8.0.0",
         "@angular/compiler": "^8.0.0",
         "@angular/core": "^8.0.0",
